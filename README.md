@@ -5,3 +5,4 @@ encountering monsters
 getting loot
 talk to npcs
 getting loot drops
+some commands explore, cave, village, castle, status, quit, inventory, use item, heal, help
